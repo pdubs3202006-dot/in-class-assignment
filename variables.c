@@ -22,7 +22,7 @@ char* declare_variables(int number, char character)
     // Variable Declarations
     int MSEE;
     double POTR;
-    string ELLT;
+    char ELLT[20];
     int WALC;
     char CREC;
     
