@@ -21,10 +21,10 @@ char* declare_variables(int number, char character)
     
     // Variable Declarations
     int MSEE;
-    int POTR;
-    int STEW;
-    int BHEE;
-    int PMU = 10;
+    double POTR;
+    string ELLT;
+    int WALC;
+    char CREC;
     
 
 
