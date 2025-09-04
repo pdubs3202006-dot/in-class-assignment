@@ -35,7 +35,7 @@ char* declare_variables(int number, char character)
     // Variable Definition
     MSEE = 10 + number;
     POTR = 12.4;
-    ELLT = "Chase The River";
+    ELLT[] = "Chase The River";
     WALC = -10;
     CREC = character;
 
